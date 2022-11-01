@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeeboyEdx
 - 👀 I’m interested in PowerShell, Python, and fitness.
-- 🌱 I’m currently learning how to implement a Flask framework dynamic website.
-- 💞️ I’m looking to collaborate on something not overly complicated that can be a good learning experience and will look good on my portfolio.
+- 🌱 I’m currently learning how about intermediate algorithms and data structures.
+- 💞️ I’m looking to collaborate on something not overly complicated that can be a good learning experience and will improve my portfolio.
 - 📫 How to reach me ... I'm not sure yet.  Can you DM people on GitHub?
 
 <!---
